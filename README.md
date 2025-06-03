@@ -23,6 +23,10 @@ The project is structured into modular React components and pages:
 
 The app uses **React Router** for navigation and has been styled for responsiveness on different devices.
 
+## 🌐 Link to website
+
+Visit the website at netflix-clone-tau-opal-64.vercel.app!
+
 ## 🚀 Quick Start
 
 ### Prerequisites
